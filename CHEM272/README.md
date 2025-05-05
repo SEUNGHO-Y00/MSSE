@@ -1,5 +1,7 @@
 # Python for the Molecular Science
 
+* [Github](https://github.com/MarkusHohle/UC-Berkeley/tree/main/Chem-272/Summer-2025)
+
 ## 1 Introduction to Python and Command Line Basics
 
 ## 2 Python Programming Fundamentals
