@@ -1,5 +1,7 @@
 # Numerical Methods for Computational Science
 
+* [GitHub](https://github.com/MarkusHohle/UC-Berkeley/tree/main/Chem-273/Summer-2025)
+
 ## 1. Introduction to Scientific Computing and Python Libraries
 
 * Guide to install WSL, miniconda, VS CodeLinks to an external site.
