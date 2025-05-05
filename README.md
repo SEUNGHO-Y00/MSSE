@@ -2,7 +2,11 @@
 
 ## CHEM 272: Python for Molecular Science
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/README.md)
+
 ## CHEM 273: Numerical Methods for Computational Science
+
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/README.md)
 
 ## CHEM 274A: Programming Languages for Molecular Sciences: Python and C++
 
