@@ -31,4 +31,3 @@
   - jupyter notebook &
   - conda deactivate
 
-5. 
