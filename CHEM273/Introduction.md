@@ -24,6 +24,8 @@
 
 4. Lecture Exercise
 
+* [Computer Setup](https://msse-chem-280-2024.github.io/setup.html)
+* [Install Guide for Spyder](https://docs.spyder-ide.org/current/installation.html)
 * 01_Lecture_Exercise.ipynb
 * Command
   - conda activate spyder-env
