@@ -4,6 +4,8 @@
 
 ## 1 Introduction to Python and Command Line Basics
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/Introduction.md)
+
 ## 2 Python Programming Fundamentals
 
 ## 3 Error Handling, Data Structures
