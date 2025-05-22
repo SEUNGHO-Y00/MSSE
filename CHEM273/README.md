@@ -6,6 +6,7 @@
 
 * Guide to install WSL, miniconda, VS CodeLinks to an external site.
 * [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/Introduction.md)
+* [Lab](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/IntroductionLab.md)
 
 ## 2 Linear Algebra Fundamentals
 
