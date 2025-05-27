@@ -1,6 +1,6 @@
 # Linear Algebra Fundamentals
 
-1. Array in python (shapes)
+1. Array in Python (shapes)
 * A = np.arange(0,5,1)
 * A = np.range(0,5,1)
 * A = np.zeros((1,5))
@@ -36,4 +36,5 @@
 * np.transpose()
 
 5. Solving Linear Systems
-* 
+* Gaussian elimination
+* determinant of A, det(A)
