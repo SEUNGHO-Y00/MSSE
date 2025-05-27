@@ -10,6 +10,8 @@
 
 ## 2 Linear Algebra Fundamentals
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/LinearAlgebraFundamentals.md)
+
 ## 3 Vector Calculus
 
 ## 4 Numerical Differentiation and Integration
