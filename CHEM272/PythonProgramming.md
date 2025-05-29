@@ -1,9 +1,9 @@
-# Python Programming Fundermental
+# Python Programming Fundamentals
 
 1. Python in a Nutshell
 
-2. Bit & Bytes and Encoding
-
+2. Bits & Bytes and Encoding
+* Strings and Numbers and Boolean
 * List
   - L = [4,'Here is a String', [1,-1,'a'], 0.5]
   - dir(L)
@@ -12,9 +12,10 @@
   - L2[:-1]
   - L2 = L1
   - L1.copy()
-
-3. Basic Type
 * isinstance
+  - isinstance(n4, str)
+ 
+3. Basic Type
 
 4. Module
 
