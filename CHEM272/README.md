@@ -8,6 +8,8 @@
 
 ## 2 Python Programming Fundamentals
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/PythonProgramming.md)
+
 ## 3 Error Handling, Data Structures
 
 * Data Structures and Error Handling
