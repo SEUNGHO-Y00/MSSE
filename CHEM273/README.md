@@ -1,6 +1,9 @@
 # Numerical Methods for Computational Science
 
 * [GitHub](https://github.com/MarkusHohle/UC-Berkeley/tree/main/Chem-273/Summer-2025)
+* Resource
+  - [Visual Python github](https://github.com/visualpython/visualpython/tree/main)
+  - [Data Analyzing with Python (Youtube)](https://youtube.com/playlist?list=PLuilzwoHzwauH_vjNBCvVd9vmZYcMZp3A&si=qDL8vbvFrJKo19wG)
 
 ## 1. Introduction to Scientific Computing and Python Libraries
 
