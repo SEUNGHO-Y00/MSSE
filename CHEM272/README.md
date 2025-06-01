@@ -13,6 +13,7 @@
 ## 3 Error Handling, Data Structures
 
 * Data Structures and Error Handling
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/DataStructure.md)
 
 ## 4 Control Structures
 
