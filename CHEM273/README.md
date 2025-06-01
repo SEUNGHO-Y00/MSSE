@@ -17,6 +17,8 @@
 
 ## 3 Vector Calculus
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/VectorCalculus.md)
+
 ## 4 Numerical Differentiation and Integration
 
 ## 5 Solving Nonlinear Equations
