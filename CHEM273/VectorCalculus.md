@@ -7,7 +7,7 @@
   - Vertical Tangent
   - Taylor Series
     - PloyTaylorSeries.py
-    - [Korean Versions](https://www.youtube.com/watch?v=xE0QTkGmIHo&ab_channel=3Blue1Brown%ED%95%9C%EA%B5%AD%EC%96%B4)
+    - [Taylor Series Youtube](https://www.youtube.com/watch?v=xE0QTkGmIHo&ab_channel=3Blue1Brown%ED%95%9C%EA%B5%AD%EC%96%B4)
   - integrals
 
 2. Gradient
