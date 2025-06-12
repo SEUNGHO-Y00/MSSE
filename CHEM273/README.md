@@ -21,7 +21,7 @@
 
 ## 4 Numerical Differentiation and Integration
 
-* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/NumericalLab.md)
+* [Lab Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/NumericalLab.md)
 
 ## 5 Solving Nonlinear Equations
 
