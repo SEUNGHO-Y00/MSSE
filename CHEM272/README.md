@@ -17,6 +17,8 @@
 
 ## 4 Control Structures
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/ControlStructures.md)
+
 ## 5 Functions
 
 ## 6 Data Visualization and File I/O
