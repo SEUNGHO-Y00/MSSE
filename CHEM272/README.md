@@ -21,6 +21,8 @@
 
 ## 5 Functions
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/Functions.md)
+
 ## 6 Data Visualization and File I/O
 
 ## 7 Scientific Computing
