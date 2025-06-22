@@ -43,3 +43,5 @@
 * Seaborn
 
 * plt, ax, fig
+  - mosaic subplots
+  - classical subplots
