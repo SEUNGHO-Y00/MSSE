@@ -27,6 +27,7 @@
 ## 5 Solving Nonlinear Equations
 
 * [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/NonlinearEquations.md)
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/NonlinearLabStudyNote.md)
 
 ## 6 Probability Theory Basics
 
