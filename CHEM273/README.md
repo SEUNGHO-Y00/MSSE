@@ -31,6 +31,8 @@
 ## 6 Probability Theory Basics
 
 * D. S. Sivia Data Analysis
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/Probability.md)
+* [Lab Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/ProbabilityLab.md)
 
 ## 7 Random Variables and Distributions
 
