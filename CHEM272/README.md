@@ -25,7 +25,11 @@
 
 ## 6 Data Visualization and File I/O
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/DataVisualization.md)
+
 ## 7 Scientific Computing
+
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/ScientificComputing.md)
 
 ## 8 Scripts, Modules, and Packages
 
