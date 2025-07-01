@@ -17,3 +17,21 @@
   - Statement 3: p-value or false positive rate
 
 3. Information and Entropy
+* low entropy vs high entropy
+* Data analysis
+  - image processing
+  - noise reduction
+  - feature detection
+* Biophysics
+  - molecular driving forces
+  - formation of macromolecules
+  - "ordering forces"
+* AI
+  - optimization
+  - cross entropy
+* statistics/information theory
+  - maximum entropy, given constrains
+* entropy S is a measure of information we have about a system
+* entropy is important in statistics, physics, informatic etc
+  - important: entropy has nothing to do with order/disorder
+
