@@ -44,6 +44,7 @@
 ## 8 Statistics for Data Science
 
 * D. S. Sivia Data Analysis
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/Statistics.md)
 
 ## 9 Eigenvalues and Eigenvectors
 
