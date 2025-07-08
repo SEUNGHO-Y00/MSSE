@@ -41,5 +41,9 @@ plt.title('N = ' + str(N))
   - receiving WhatsApp messages/SMS
 
 4. Normal Distribution
+* Stirling's approximation
+  - The Poisson and the binomial distribution are discrete, whereas the Normal distribution is continuous!
+  - np.random.normal(mu, s, N)
 
-5. Cenral Limit Throrem
+5. Central Limit Theorem
+
