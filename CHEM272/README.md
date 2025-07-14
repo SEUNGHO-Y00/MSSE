@@ -33,6 +33,8 @@
 
 ## 8 Scripts, Modules, and Packages
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/Scripts.md)
+
 ## 9 Introduction to C++ Concepts
 
 * C++ Introduction
