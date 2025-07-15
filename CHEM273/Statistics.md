@@ -50,4 +50,7 @@ x2 = np.random.normal(0,2,(1000,))
   - Statistical errors: limited precision, natural variance of the data => spread of the data around an average value
 * Assumption: far from the detection limit and saturation
   - the spread follows approximately a normal distribution.
+  - fitting a model to data points each with an error bar om_i.
+* Error propagation
+* Curve fitting
  
