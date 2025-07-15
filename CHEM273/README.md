@@ -48,6 +48,8 @@
 
 ## 9 Eigenvalues and Eigenvectors
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/Eigenvalues.md)
+
 ## 10 Simulation and Monte Carlo Method
 
 ## 11 Data Fitting and Regression
