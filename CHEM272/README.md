@@ -38,6 +38,7 @@
 ## 9 Introduction to C++ Concepts
 
 * C++ Introduction
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/C%2B%2B.md)
 
 ## 10 Deeper C++ Exploration
 
