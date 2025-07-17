@@ -25,8 +25,22 @@ int main() // must have define main function // return an integer
   return 0; // return 0 meaning succefully
 }
 ```
+  - Compile and execution in your terminal
+    - g++ hello_world.cpp -o hello_world
+    - ./hello_world
+    - g++ (the GNU compiler)
+    - -o (Option that means "output to a file")
 
 4. Why not C++
+* C++ Data Types
+  - Static vs Dynamic Typing
+  - Strong vs. Weak Typing
+
+* Basic Types
+  - Character types
+  - Numerical integer types
+  - Floating-point types
+  - Boolean type
 
 5. Python Program Execution
 
