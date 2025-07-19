@@ -9,7 +9,7 @@
 
 * Guide to install WSL, miniconda, VS CodeLinks to an external site.
 * [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/Introduction.md)
-* [Lab](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/IntroductionLab.md)
+* [Lab Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/IntroductionLab.md)
 
 ## 2 Linear Algebra Fundamentals
 
@@ -49,6 +49,7 @@
 ## 9 Eigenvalues and Eigenvectors
 
 * [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/Eigenvalues.md)
+* [Lab Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/EigenvaluesLabs)
 
 ## 10 Simulation and Monte Carlo Method
 
