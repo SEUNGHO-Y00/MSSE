@@ -1,0 +1,10 @@
+# Eigenvalues and Eigenvectors Lab
+
+* Eigenvalue Practice
+
+* Determinant = det [ a  b ] = ad-bc
+                    [ c  d ]
+
+* Reduced row echelon form
+  - R_1 = -R_1
+  - R_2 = R_2 - R_1
