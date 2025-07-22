@@ -42,6 +42,8 @@
 
 ## 10 Deeper C++ Exploration
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/DeeperC%2B%2B.md)
+
 ## 11 Expanded C++ Topics - Discussing topics for the final
 
 ## 12 Introduction to Git and GitHub
