@@ -53,6 +53,14 @@
 
 3. More Functions: Function overloading and returning multiple values
 
+* Function Overloading
+  - What makes functions different?
+    - Number, Types, Order of parameters
+  - Automatic Type Deduction
+
+* Returning Multiple values
+  - Package Two Values Together
+
 4. C++ Exceptions
 
 5. Organizing Code: Multifile C++ Project
