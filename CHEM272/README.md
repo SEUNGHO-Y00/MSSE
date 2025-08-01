@@ -46,6 +46,8 @@
 
 ## 11 Expanded C++ Topics - Discussing topics for the final
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/ExpandedC++.md)
+
 ## 12 Introduction to Git and GitHub
 
 ## 13 Collaborative Final Project Work Week
