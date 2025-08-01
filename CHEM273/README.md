@@ -54,8 +54,12 @@
 ## 10 Simulation and Monte Carlo Method
 
 * [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/MonteCarlo.md)
+* [Lab Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/MonteCarloMethodLab.md)
 
 ## 11 Data Fitting and Regression
+
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/DataFitting.md)
+* [Lab Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/DataFittingLab.md)
 
 ## 12 Optimization Techniques
 
