@@ -63,4 +63,6 @@
 
 ## 12 Optimization Techniques
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM273/OptimizationTechniques.md)
+
 ## 13 Machine Learning Fundamentals
