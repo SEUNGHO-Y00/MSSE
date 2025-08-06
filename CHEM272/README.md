@@ -50,4 +50,6 @@
 
 ## 12 Introduction to Git and GitHub
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM272/GitHub.md)
+
 ## 13 Collaborative Final Project Work Week
