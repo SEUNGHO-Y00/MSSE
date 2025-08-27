@@ -2,6 +2,8 @@
 
 ## CHEM 274A: Programming Languages for Molecular Sciences: Python and C++
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274A/README.md)
+
 ## CHEM 274B: Software Engineering Fundamentals for Molecular Sciences
 
 ## DATA 200S: Principles and Techniques of Data Science
