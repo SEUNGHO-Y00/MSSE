@@ -6,6 +6,8 @@
 
 ## CHEM 274B: Software Engineering Fundamentals for Molecular Sciences
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/README.md)
+
 ## DATA 200S: Principles and Techniques of Data Science
 
 ## CHEM 277B: Machine Learning Algorithms
