@@ -2,6 +2,8 @@
 
 ## 1. Introduction to Software Engineering
 
+* [study note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/Introduction.md)
+
 ## 2. Introduction to Algorithms & Basic Sorting
 
 ## 3. Recursion & Fundamental Data Structures
