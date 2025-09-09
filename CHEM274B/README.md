@@ -6,6 +6,8 @@
 
 ## 2. Introduction to Algorithms & Basic Sorting
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/Algorithms.md)
+
 ## 3. Recursion & Fundamental Data Structures
 
 ## 4. Graph Data Structures & Basic Traversal
