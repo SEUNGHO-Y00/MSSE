@@ -7,6 +7,8 @@
 
 ## 2. Programming Paradigms
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274A/Week2.md)
+
 ## 3. C++ Classes and Command Line Text Editors
 
 * [Discussion](https://docs.google.com/presentation/d/1ODoZYwdwQgKWgQlktv13vmuk2J0ptQOofgTtoAFZjPI/edit?usp=sharing)
