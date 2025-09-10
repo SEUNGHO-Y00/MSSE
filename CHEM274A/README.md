@@ -13,4 +13,4 @@
 
 * [Discussion](https://docs.google.com/presentation/d/1ODoZYwdwQgKWgQlktv13vmuk2J0ptQOofgTtoAFZjPI/edit?usp=sharing)
 * [Github](https://github.com/lizzie-gilson1/discussion-1.git)
-* 
+* [Python Testing](https://education.molssi.org/python-package-best-practices/08-testing.html)
