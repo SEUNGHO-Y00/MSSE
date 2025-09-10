@@ -10,6 +10,9 @@
 
 ## 3. Recursion & Fundamental Data Structures
 
+* [Discussion](https://github.com/nrflynn2/swe-molecular-sciences)
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/Week3.md)
+
 ## 4. Graph Data Structures & Basic Traversal
 
 ## 5. Molecular Sciences Applications & Review
