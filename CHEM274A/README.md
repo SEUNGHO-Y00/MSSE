@@ -4,6 +4,7 @@
 
 * Python coding style and formatting tools
 * Python Errors and Exceptions
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274A/Introduction.md)
 
 ## 2. Programming Paradigms
 
