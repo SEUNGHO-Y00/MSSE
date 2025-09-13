@@ -66,3 +66,7 @@
 * Insertion sort
 
 * Insertion sort performance
+
+* Mergesort
+
+* Sorting COmplexity & Stability
