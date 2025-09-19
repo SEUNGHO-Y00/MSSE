@@ -21,3 +21,9 @@
 ## 4.3 Breadth-first Search
 
 ## 4.4 Connected Components & Challenges
+
+* Connectivity queries
+* Connected components
+* Connected components applications: STD spread
+* Find largest connected component
+* (Limited) SMILES reconstruction
