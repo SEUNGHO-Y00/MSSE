@@ -15,6 +15,8 @@
 
 ## 4. Graph Data Structures & Basic Traversal
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/Week4.md)
+
 ## 5. Molecular Sciences Applications & Review
 
 ## 6. Trees & Binary Search Trees
