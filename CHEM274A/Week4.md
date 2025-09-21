@@ -25,3 +25,38 @@
 * Introduction to Sequences
 
 * Python Tuples and Lists
+
+* Python Strings
+
+* Sets and Frozen Sets
+
+### 4.2.3 Mappings
+
+* Mappings - Dictionary Type
+
+* Accessing Data in Dictionaries
+
+* Dictionary Iteration
+
+## 4.3 Command Line
+
+* Regex
+  - Brackets & Parentheses
+  - Repeats
+  - Character Classes
+  - Escaping
+
+* grep
+  - Common Options
+
+* Find
+  - Common Expressions
+
+* Compression
+  - Archiving
+
+* Screen
+  - Terminal Multiplexers
+ 
+* Hashing
+  - shasum
