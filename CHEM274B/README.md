@@ -19,6 +19,8 @@
 
 ## 5. Molecular Sciences Applications & Review
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/Week5.md)
+
 ## 6. Trees & Binary Search Trees
 
 ## 7. Database Systems & SQL for Scientific Data
