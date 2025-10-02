@@ -23,6 +23,8 @@
 
 ## 6. Trees & Binary Search Trees
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/Week6.md)
+
 ## 7. Database Systems & SQL for Scientific Data
 	
 ## 8. Advanced Graph Algorithms
