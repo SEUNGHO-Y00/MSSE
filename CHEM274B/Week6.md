@@ -9,6 +9,8 @@
 * BST insert implementation
 
 * Tree Shape
+  - Space-partitioning trees: application
+    - Ray tracing, 2d range search, Flight simulatores, N-body sumulation, Collision detection, Astronomical databases, Nearest neighbor search, Adaptive mesh generation, Accelrate
 
 ## 6.2 Travels & Ordered Operations
 
