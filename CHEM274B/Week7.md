@@ -52,4 +52,10 @@
 
 * Order of operation
 
+## Resource
+
+* https://www.manning.com/books/grokking-deep-reinforcement-learning?utm_source=chatgpt.com&
+
+* https://arxiv.org/abs/2002.03230
+
 Relations & Constraints
