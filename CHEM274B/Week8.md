@@ -23,3 +23,9 @@
 * Prim's algorithm
 
 * Lazy Prim's algorithm
+
+## 8.3 Clustering Tangent
+
+* Single-link clustering
+
+* Hierarchical clustering
