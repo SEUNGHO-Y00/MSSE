@@ -19,3 +19,7 @@
 * Virtual Destructors
 
 * Abstract Base Classes
+
+## Lab Lecture
+
+https://www.jazzvswaffles.com/
