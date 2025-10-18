@@ -23,3 +23,5 @@
 * std::pair
 
 * std::map
+
+* std::set
