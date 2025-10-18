@@ -25,3 +25,5 @@
 * std::map
 
 * std::set
+
+* Features of std::string
