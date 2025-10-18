@@ -23,3 +23,5 @@
 ## Lab Lecture
 
 https://www.jazzvswaffles.com/
+
+https://sqlzoo.net/wiki/SQL_Tutorial
