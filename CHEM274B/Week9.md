@@ -13,3 +13,11 @@
 ## 9.3 Strong Components & Molecules as Graphs
 
 * Strongly-connect components
+
+## Resource
+
+https://gameprogrammingpatterns.com/state.html
+
+https://www.drawio.com/
+
+https://swtch.com/~rsc/regexp/regexp1.html
