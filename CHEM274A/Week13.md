@@ -23,3 +23,13 @@
 * conda distributions
 
 * conda hygiene
+
+## Resource
+
+* https://geminicli.com/
+
+* https://developers.openai.com/codex/cli/
+
+* https://www.claude.com/product/claude-code
+
+* https://www.wired.com/story/meta-ai-job-interview-coding/
