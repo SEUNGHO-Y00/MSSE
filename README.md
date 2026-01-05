@@ -1,6 +1,6 @@
 # University of California, Berkeley – Molecular Science &amp; Software Engineering
 
-## DATA 277A: Data Science for the Molecular Sciences
+## CHEM 277A: Data Science for the Molecular Sciences
 
 ## CHEM 277B: Machine Learning Algorithms
 
