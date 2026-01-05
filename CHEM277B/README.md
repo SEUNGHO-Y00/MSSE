@@ -29,7 +29,3 @@
 ## 14. Language Models and Transformer
 
 ## 15. Graph Neural Networks (GNN)
-
- 
-
-Module 15
