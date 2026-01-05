@@ -1,14 +1,6 @@
 # University of California, Berkeley – Molecular Science &amp; Software Engineering
 
-## CHEM 274A: Programming Languages for Molecular Sciences: Python and C++
-
-* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274A/README.md)
-
-## CHEM 274B: Software Engineering Fundamentals for Molecular Sciences
-
-* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/README.md)
-
-## DATA 200S: Principles and Techniques of Data Science
+## DATA 277A: Data Science for the Molecular Sciences
 
 ## CHEM 277B: Machine Learning Algorithms
 
@@ -23,6 +15,14 @@
 ## CHEM 282B: MSSE Leadership and Project Management
 
 ## CHEM 283: Capstone Project
+
+## CHEM 274A: Programming Languages for Molecular Sciences: Python and C++
+
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274A/README.md)
+
+## CHEM 274B: Software Engineering Fundamentals for Molecular Sciences
+
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM274B/README.md)
 
 ## CHEM 273: Numerical Methods for Computational Science
 
