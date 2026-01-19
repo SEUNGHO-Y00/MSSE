@@ -2,7 +2,9 @@
 
 ## 1. Introduction to Data Science
 
-## 2. Data Sampling and Probability, Pandas
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM277A/Week1.md)
+
+## 2. Data Sampling and Probability, Pandas // data acquisition and analysis
 
 ## 3. Exploratory Data Analysis (EDA), and Regex Part I
 
@@ -10,7 +12,7 @@
 
 ## 5. Introduction to SQL
 
-## 6. Feature Analysis, Engineering and Encoding
+## 6. Feature Analysis, Engineering and Encoding // feature selection and analysis
 
 ## 7. PCA, LDA and Correlation, Dimension Reduction
 
@@ -18,7 +20,7 @@
 
 ## 9. Feature Selection via Correlation Analysis
 
-## 10. Introduction to linear and logistic regression; OLS
+## 10. Introduction to linear and logistic regression; OLS // modelling
 
 ## 11. Avoiding Overfitting and Regularization (L1 & L2)
 
