@@ -2,7 +2,7 @@
 
 ## 1. Course Overview and Introduction to Machine Learning
 
-## 2. Bayesian Methods in Machine Learning
+## 2. Bayesian Methods in Machine Learning // classic ML tools & algorithms
 
 ## 3. Dimensionality Reduction: Principal Component Analysis
 
@@ -12,7 +12,7 @@
 
 ## 6. Adaptive Learning and Gradient Descent Optimization Algorithms
 
-## 7. Introduction to Artificial Neural Networks - The Perceptron
+## 7. Introduction to Artificial Neural Networks - The Perceptron // ANNs / AI / Deep Learning
 
 ## 8. Introduction to Artificial Neural Networks - Building Multiple Dense Layers
 
