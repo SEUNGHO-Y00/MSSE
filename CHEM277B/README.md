@@ -2,6 +2,8 @@
 
 ## 1. Course Overview and Introduction to Machine Learning
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM277B/Week1.md)
+
 ## 2. Bayesian Methods in Machine Learning // classic ML tools & algorithms
 
 ## 3. Dimensionality Reduction: Principal Component Analysis
