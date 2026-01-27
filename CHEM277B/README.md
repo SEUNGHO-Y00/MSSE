@@ -6,6 +6,8 @@
 
 ## 2. Bayesian Methods in Machine Learning // classic ML tools & algorithms
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MSSE/blob/main/CHEM277B/Week2.md)
+
 ## 3. Dimensionality Reduction: Principal Component Analysis
 
 ## 4. Linear and Non-linear Regression and Classification
