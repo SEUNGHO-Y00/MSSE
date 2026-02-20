@@ -12,7 +12,7 @@
 
 ## 4. Linear and Non-linear Regression and Classification
 
-## 5. President's Day, Watch recordings: Unsupervised Learning: Clustering and Gaussian Mixture Models
+## 5. Unsupervised Learning: Clustering and Gaussian Mixture Models
 
 ## 6. Adaptive Learning and Gradient Descent Optimization Algorithms
 
