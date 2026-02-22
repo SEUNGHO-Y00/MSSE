@@ -1,5 +1,11 @@
 # Unsupervised Learning: Clustering and Gaussian Mixture Models
 
+## K-means
+
+## GMM (Gaussian Mixture Models)
+
+## trees
+
 ## General Overview
 
 * regression
